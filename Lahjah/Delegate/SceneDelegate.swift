@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Lahjah
+//  Dialect Arabia
 //
-//  Created by Mohammad Alturbaq on 16/01/2022.
+//  Created by Mohammad Alturbaq on 24/12/2021.
 //
 
 import UIKit
