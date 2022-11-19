@@ -1,5 +1,7 @@
 # Lahjah
 
+https://apps.apple.com/tt/app/lahjah/id1607681695
+
 Lahjah is a dictionary for Arabic dialects
 You can add a meaning to a word
 Other people can upvote/downvote meanings to each word, and meanings are sorted by upvotes
